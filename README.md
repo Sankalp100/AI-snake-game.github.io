@@ -19,5 +19,5 @@ This project was an assignment for a university course in Artificial Intelligenc
 
 The goal of this assignment was to measure the usefulness of various search algorithms. In this example, we are using Breadth First Search, Depth First Search, and A\* search with two heuristics (and combined) to allow the snake to find the food by avoiding obstacles.
 
-Here you can see the basic design of the game UI:
+
 
