@@ -21,7 +21,3 @@ The goal of this assignment was to measure the usefulness of various search algo
 
 Here you can see the basic design of the game UI:
 
-![AI](https://user-images.githubusercontent.com/31498029/57656952-83caf900-75f7-11e9-9b17-642c39c1b97a.png)
-
-View this on the link given below:
-https://yjangir49.github.io/AI_Snake_Game/
